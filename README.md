@@ -14,7 +14,7 @@ This page is mostly for documentation.
 **[Arma Reforger Workshop: Escapists](https://reforger.armaplatform.com/workshop/5F16D7E4A1CBE075-Escapists)**
 
 ### Links
-**[Escapists Github Wiki](https://reforger.armaplatform.com/workshop/5F16D7E4A1CBE075-Escapists)**
+**[Escapists Github Wiki](https://github.com/igorkis-scrts/A4-Escapists-Docs/wiki)**
 
 ## Credits
 - Escapists by Socrates
